@@ -9,7 +9,7 @@ padding: 10px;
 font-size: 2rem;
 }
 
-.menus{
+.menu{
     display: flex;
     text-align: center;
     justify-content: space-between;
