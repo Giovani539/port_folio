@@ -10,7 +10,7 @@ font-size: 2rem;
 }
 
 .menu{
-    background-color: chartreuse;
+    background-color: rgb(115, 70, 218);
     display: flex;
     text-align: center;
     justify-content: space-between;
