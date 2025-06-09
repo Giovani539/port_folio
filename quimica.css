@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 :root {
-    --roxo_claro: #B2A5FF;
+    --roxo_escuro: #52357B;
+    --roxo_claro: #5459AC;
+    --verde_escuro: #648DB3;
+    --verde_claro: #B2D8CE;
 }
 header {
 margin: auto;
