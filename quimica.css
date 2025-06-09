@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root {
-    --roxo_claro: #b2a5ff
+    --roxo_claro: #B2A5FF;
 }
 header {
 margin: auto;
