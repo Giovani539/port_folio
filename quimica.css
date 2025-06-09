@@ -12,7 +12,7 @@ font-size: 2rem;
 }
 
 .menu{
-    background-color: var(--roxo_claro)
+    background-color: var(--roxo_claro);
     display: flex;
     text-align: center;
     justify-content: space-between;
